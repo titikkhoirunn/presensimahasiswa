@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">presensi mahasiswa</string>
+    <string name="profile">Profile</string>
+    <string name="presensi_mahasiswa">Presensi Mahasiswa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
